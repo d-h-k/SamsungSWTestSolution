@@ -46,3 +46,9 @@ solutions 폴더에는 풀이 설명이 codes 폴더에는 정답 코드가 올�
 - [17142](https://www.acmicpc.net/problem/17142) 연구소 3
 
 ---
+
+ * 표준입출력함수 (cout , printf 에서) 속도 차이  -  검색키워드 : c++ cout printf 속도차이
+    https://cupjoo.tistory.com/97
+    https://eine.tistory.com/entry/CC-%EC%9E%85%EC%B6%9C%EB%A0%A5-%EB%B0%A9%EB%B2%95%EC%97%90-%EB%94%B0%EB%A5%B8-%EC%86%8D%EB%8F%84-%EC%A0%95%EB%A6%AC
+    http://blog.naver.com/PostView.nhn?blogId=skyvvv624&logNo=221138226065
+    https://sexycoder.tistory.com/18
